@@ -19,9 +19,9 @@ void printHello()
 int main()
 {
     ContBancar c1;
-    c1.setNume("Adrian Vrn");
+    c1.setNume("FlasH Adi");
     c1.setSold(210);
-    c1.setIban("RO12 brEL 0005 5018 9896 0100");
+    c1.setIban("GB17 fxrl 1205 7418 4726 0710");
         std::cout << GREEN << "Numele utilizatorului c1 este " << c1.getNume() << std::endl;
         std::cout << "Soldul lui c1 este " << c1.getSold() << std::endl;
         std::cout << "IBAN`ul lui c1 este " << c1.getIban() << RESET << std::endl;    
