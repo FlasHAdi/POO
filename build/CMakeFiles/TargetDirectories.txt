@@ -1,3 +1,0 @@
-B:/_Curs_c++/POO/build/CMakeFiles/POO.dir
-B:/_Curs_c++/POO/build/CMakeFiles/edit_cache.dir
-B:/_Curs_c++/POO/build/CMakeFiles/rebuild_cache.dir
